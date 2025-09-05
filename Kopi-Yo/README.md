@@ -10,14 +10,7 @@ This is the logo design I created for the fictional coffee shop "Kopi Yo". The c
 ## Logo Preview:
 ![Kopi Yo Logo](https://raw.githubusercontent.com/wildanagba45/AI-generated/main/Kopi-Yo/assets/img/IMG_3411.jpeg)
 
-# Kopi Yo Logo Design
 
-This is the logo design I created for the fictional coffee shop "Kopi Yo". The concept of the logo includes a coconut cup, warm hues, and a playful vibe, all captured through AI-generated design using Ideogram.
-
-## Project Details:
-- **Logo Concept**: Coconut cup with a sunset vibe.
-- **Tools Used**: AI-generated using Ideogram.
-- **Inspiration**: A beach setting with warm, nostalgic tones.
 
 ## Design Process for the "Kopi Yo" Logo Using Ideogram AI
 
