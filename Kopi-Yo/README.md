@@ -39,13 +39,3 @@ The advantage of using AI for logo design is the ability to quickly generate mul
 
 ### Conclusion
 By following these steps, you can create a logo design using AI like Ideogram and turn your ideas into a visual representation that aligns with your brand vision. It's important to provide clear and detailed instructions so that the AI can generate the most relevant and optimal design.
-
-
-================================================================================================================================================================================================================
-
-Penjelasan
-Langkah 1: Pahami Konsep Desain akan membantu memberi gambaran umum pada pembaca.
-Langkah 2: Menyusun Prompt untuk AI adalah inti dari pembuatan desain menggunakan AI, dengan memberikan contoh prompt.txt.
-Langkah 3: Proses Pembuatan dengan Ideogram AI menjelaskan bagaimana desain itu dibuat dan disempurnakan.
-Bagaimana AI Berperan menguraikan tentang pembelajaran mesin dan cara kerja AI dalam pembuatan desain.
-Kesimpulan memberikan penutupan dan cara AI mempercepat proses desain.
