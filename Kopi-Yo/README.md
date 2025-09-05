@@ -8,4 +8,4 @@ This is the logo design I created for the fictional coffee shop "Kopi Yo". The c
 - **Inspiration**: A beach setting with warm, nostalgic tones.
 
 ## Logo Preview:
-![Kopi Yo Logo](KopiYoLogo.jpg)
+![Kopi Yo Logo](IMG_3411.jpeg)
