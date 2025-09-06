@@ -1,17 +1,18 @@
-###Desain Poster AI Awareness
+# Desain Poster AI Awareness
 This is the digital poster design I created to raise awareness about the potential and risks of Artificial Intelligence (AI) in everyday life. The design aims to educate the public on how AI can be both beneficial and risky, depending on its application. The design was created using Canva AI, leveraging tools like Magic Write and the AI Image Generator.
 
-##Project Details:
+## Project Details:
 1. **Poster Concept**: Highlighting both the benefits and risks of AI.
 2. **Tools Used**: AI-generated using Canva (Magic Write, AI Image Generator).
 3. **Inspiration**: A futuristic digital world with AI technologies, using clear visual contrast between positive and negative aspects of AI.
 4. **Target Audience**: General public, especially those unfamiliar with AI technologies.
 
-##Poster Preview:
-(Include a preview of the AI-generated poster here)
+## Poster Preview:
+![Desain Poster AI Awareness](https://raw.githubusercontent.com/wildanagba45/AI-generated/main/Kopi-Yo/assets/img/IMG_3411.jpeg)
 
-##Design Process for the "AI Awareness" Poster Using Canva AI
-1. **Step 1**: Understanding the Poster Concept
+
+## Design Process for the "AI Awareness" Poster Using Canva AI
+### Step 1: Understanding the Poster Concept
 The goal of the poster is to educate the audience on the dual nature of AI—its potential for good and the risks associated with its misuse. The visual language and messaging should strike a balance between engaging and informative.
 **Main Elements**:
 - Visual representation of AI (robots, neural networks, or digital interfaces)
@@ -23,7 +24,7 @@ The goal of the poster is to educate the audience on the dual nature of AI—its
 **Typography**:
 - Modern, clean fonts with bold text for the title and a more neutral font for body text.
 
-2. **Step 2**: Creating the Prompt for AI (Canva)
+### Step 2: Creating the Prompt for AI (Canva)
 Once the elements are defined, the next step is writing a detailed prompt for Canva AI. The goal is to guide the AI tool to generate a design that fits the concept. Here’s the prompt I used:
 **Prompt for Canva AI**:
 *Create a digital poster to educate the public about the potential and risks of using Artificial Intelligence (AI) in everyday life. The design should depict both the benefits and dangers of AI in a visually striking manner.*
@@ -32,7 +33,7 @@ Once the elements are defined, the next step is writing a detailed prompt for Ca
 - Use a modern, clean font for the title and body text, with bold typography for the main headline and regular fonts for descriptive text.
 - Include a tagline that encourages learning more about AI responsibly, such as: "Pahami lebih jauh, agar kita bisa memanfaatkan AI dengan bijak."
 
-3. **Step 3**: AI Design Creation Process
+### Step 3: AI Design Creation Process
 - Enter the Prompt
 After writing the prompt, I entered it into Canva AI. The AI tool then started processing the input and generating design options based on the description.
 - Refining the Design
@@ -42,9 +43,9 @@ I made minor tweaks to ensure the elements, like the color balance, iconography,
 - Finalizing the Poster
 Once I was satisfied with the design, I finalized it, ensuring that all text was legible, the visuals were striking, and the overall message of AI awareness was clear. The poster was then ready for use.
 
-How AI Plays a Role in the Design
+### How AI Plays a Role in the Design
 AI tools like Canva utilize machine learning to understand and interpret the prompt, then generate designs based on the visual and textual input. By analyzing elements like color, composition, and font, the AI produces an array of design options that meet the provided specifications.
 The key benefit of using AI for poster design is the speed and efficiency it offers. AI allows for quick experimentation with different design elements and layouts, which might take longer with manual design processes.
 
-##Conclusion
+## Conclusion
 By following these steps, I was able to create a meaningful and impactful poster design using AI tools like Canva. The process allowed for a mix of creativity and efficiency, providing a visually appealing and informative final product. Clear, detailed prompts were essential to guide the AI in generating designs that met the project’s goals and message.
