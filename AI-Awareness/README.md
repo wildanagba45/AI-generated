@@ -8,7 +8,7 @@ This is the digital poster design I created to raise awareness about the potenti
 4. **Target Audience**: General public, especially those unfamiliar with AI technologies.
 
 ## Poster Preview:
-![Desain Poster AI Awareness](https://raw.githubusercontent.com/wildanagba45/AI-generated/main/Kopi-Yo/assets/img/IMG_3411.jpeg)
+![AI Awareness Poster](https://raw.githubusercontent.com/wildanagba45/AI-generated/main/AI-Awareness/assets/img/Img-ai-awarness-1.png)
 
 
 ## Design Process for the "AI Awareness" Poster Using Canva AI
